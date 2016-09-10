@@ -1,0 +1,27 @@
+Text channels:
+	1: awg_rules: may update/add some rules...
+	2: group_links: (Set them to a bot cmd call?)/no need for changes
+	3: admin_application: nothing here really...
+	4: event_info: same to 3rd.
+	5: awg_chat: Move(in case of first times of doing so) images/gifs/videos to specific chat. Remove(if same person keeps doing it).
+			Add a filter for racist words/some other words(if needed)...
+	6: share_your steam: delete any kind of chatting/spam  --> leave only links to profiles
+	7: anime_recommendations: same to 3rd.
+	8: gaming_chat: alloved to post vids/gifs/images from games only.
+	9: pg15_rp_chat: Update rules for OOC "cmd" -- which are "//ooc text" and "(<ooc text>)"
+	10: awg_osu: same to 3rd.
+	11: awg_pokemon_mmo: same to 3rd
+	12: bot_chat: Delete ppl's msgs with a small delay so only bot respond to cmds they use.(and keep bot_chat clean out of spam)
+	13: bot_commands: Needs an update(since, like some Tatsu's cmds will not work due to her update)
+	14: images: The ONLY channel for images/gifs.
+	15: videos: The ONlY channel for videos(except for music channel)
+	16: music_chat: Can post videos for bot cmd/music names/music cmds/(something else i forgot)
+	
+Voice channels: Nothing to change here (which is good)
+
+
+I'm not making it look super hard, meme-less or so...
+I only want to make rules do their job, as it should be. And some text channels to 
+work properly... instead of mixing one channel into "cancer zone" of spam and racism(mostly)
+(And same goes to AWG crew, especially Rias. He knows why...)
+	
